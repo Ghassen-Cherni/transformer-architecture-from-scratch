@@ -1,3 +1,0 @@
-﻿Transformers are powerful models for sequence tasks.
-Byte-level BPE handles any characters, including emojis 😊 and accents like café.
-Short text for tokenizer testing.
